@@ -1,4 +1,4 @@
-# <img src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/950448cb-1003-4539-a25a-f55ba4a0c9aa" width="40"> Waffle (프로젝트 관리를 위한 협업 웹서비스)
+# <img width="40" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/b0c501ca-c6e4-451f-842c-eaea073d4d9e"> Waffle (프로젝트 관리를 위한 협업 웹서비스)
 프로젝트 관리를 위한 협업 웹서비스로 다음의 목표로 개발하게 되었다.
 - 팀원들 간 소통 기능 확대 및 편리한 기능 제공
 - 프로젝트시 일정 관리, 진행 사항 관리 편의성 향상
@@ -34,22 +34,22 @@
 
 ## ⭐ 서비스 화면
 ### 회원가입 및 로그인
-<img width="966" alt="회원가입및로그인" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/5c1072bc-17a4-48eb-bf6c-21500d30aaa7">
+<img width="966" alt="회원가입및로그인" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/064b1686-1fc0-41c4-a7c7-ea969eb94562">
 
 ### 캘린더
-<img width="959" alt="캘린더" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/f77b0f91-05d5-4198-bc8b-0d94d324ebf6">
+<img width="959" alt="캘린더" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/fbd4418c-045c-4e7f-81c4-bce92bb0f095">
 
 ### 그룹
-<img width="961" alt="그루" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/0e9e6527-3728-416e-909c-54bf2e9b8189">
+<img width="961" alt="그루" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/1a87ce1f-dfcd-4362-98a5-28ac302f4d76">
 
 ### 룸
-<img width="955" alt="룸" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/dd30344e-4f1a-4ecc-9544-16056215e1ad">
+<img width="955" alt="룸" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/c0fe82bb-ed83-4187-ba35-a6d614e65b8f">
 
 ### DM 및 화상채팅
-<img width="953" alt="채팅" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/a7f2db14-e1f5-49b2-b214-ca041664de85">
+<img width="953" alt="채팅" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/7cca5bf2-9563-4490-bfd1-8079b218833f">
 
 ### 프로필
-<img width="959" alt="프로필" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/7276bea0-9c4b-44ca-a215-dac3ffc159c2">
+<img width="959" alt="프로필" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/aabf4510-1eb0-4ff0-b276-b4323c8712cf">
 
 
 ## 💻 개발 환경
@@ -90,7 +90,7 @@
 - 데이터베이스는 클라우드 데이터베이스로 RDS를 이용하여 구성
 - 도메인을 구매하여 EC2에도 Nginx 설정을 하여 SSL 인증서를 발급받아 https 통신이 가능하도록 함
 - https://waproject.store (현재 접속 불가)
-<img width="746" alt="스크린샷 2023-06-12 033129" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/7fceb646-7968-4d14-8164-501e335abdd5">
+<img width="746" alt="스크린샷 2023-06-12 033129" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/9360ead3-49e7-468f-9e3b-92153ca54646">
   
 ## ✨ 기술
 - WebRTC(Openvidu)
@@ -105,14 +105,14 @@
   - Spring Security, JWT를 이용하여 인증 구현, 사용자 로그아웃시 토큰을 만료되도록 하여 다시 인증 불가하도록 구현
 
 ## ✨ 화면 설계서
-<img width="896" alt="화면 설계" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/adaa99d6-d541-49d8-b6eb-73d83c894d8d">
+<img width="896" alt="화면 설계" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/7deb8680-23d8-4fea-8f63-44c89154646b">
 
 ## ✨ E-R 다이어그램
-<img src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/da4ef679-83e6-4e13-82f0-34c714b52b63" width="900">
+<img src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/4ada91cc-ceff-4b4e-8973-ee5b106f8347" width="900">
 
 ## ✨ 최종 테스트 케이스
-<img width="989" alt="테스트1" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/58f134bd-1002-49ef-a387-c401ffd5bb41">
-<img width="842" alt="테스트2" src="https://github.com/Seohyun-0206/spring-practice/assets/81468092/53ee97aa-b6f7-4a57-87a9-4630f9ba9373">
+<img width="989" alt="테스트1" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/3486ea00-6777-4028-87b0-070c6be270b8">
+<img width="840" alt="테스트2" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/9bb8b78d-233e-488d-aaf3-8aacc0863159">
 
 ## 👨‍👩‍👧 팀원
 - [전서현(팀장, 본인, 백엔드)](https://github.com/Seohyun-0206)
