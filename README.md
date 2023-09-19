@@ -108,7 +108,7 @@
 <img width="896" alt="화면 설계" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/7deb8680-23d8-4fea-8f63-44c89154646b">
 
 ## ✨ E-R 다이어그램
-<img src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/4ada91cc-ceff-4b4e-8973-ee5b106f8347" width="900">
+<img src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/b5b4c5ad-898a-489d-880d-8c5353615b39" width="900">
 
 ## ✨ 최종 테스트 케이스
 <img width="989" alt="테스트1" src="https://github.com/Seohyun-0206/Waffle-Backend/assets/81468092/3486ea00-6777-4028-87b0-070c6be270b8">
